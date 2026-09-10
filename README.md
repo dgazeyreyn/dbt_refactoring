@@ -1,5 +1,11 @@
 # Behavioral Analytics & Conversion Modeling
 
+## Preview
+
+[![case-study-dashboard-report](./assets/preview-screenshot.png)](https://dgazeyreyn.github.io/online_teletherapy_signups/)
+_This preview is automatically updated via GitHub Actions._
+
+
 Scalable behavioral analytics system designed to identify drivers of user signup conversion on a mental health assessment platform.
 
 This project demonstrates how raw behavioral event data can be transformed into a structured analytical system capable of supporting:
